@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\labtask\\OperatorOverloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA40299B-FC83-4178-8CC8-91170E701FF4}|OperatorOverloading\\OperatorOverloading.csproj|c:\\users\\ca r221.14\\desktop\\labtask\\operatoroverloading\\operatoroverloading\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA40299B-FC83-4178-8CC8-91170E701FF4}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA40299B-FC83-4178-8CC8-91170E701FF4}|OperatorOverloading\\OperatorOverloading.csproj|c:\\users\\ca r221.14\\desktop\\labtask\\operatoroverloading\\operatoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA40299B-FC83-4178-8CC8-91170E701FF4}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA40299B-FC83-4178-8CC8-91170E701FF4}|OperatorOverloading\\OperatorOverloading.csproj|c:\\users\\ca r221.14\\desktop\\labtask\\operatoroverloading\\operatoroverloading\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA40299B-FC83-4178-8CC8-91170E701FF4}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\labtask\\OperatorOverloading\\OperatorOverloading\\Extension.cs",
+              "RelativeDocumentMoniker": "OperatorOverloading\\Extension.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\labtask\\OperatorOverloading\\OperatorOverloading\\Extension.cs",
+              "RelativeToolTip": "OperatorOverloading\\Extension.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:22:19.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\labtask\\OperatorOverloading\\OperatorOverloading\\Car.cs",
+              "RelativeDocumentMoniker": "OperatorOverloading\\Car.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\labtask\\OperatorOverloading\\OperatorOverloading\\Car.cs",
+              "RelativeToolTip": "OperatorOverloading\\Car.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:52:24.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\labtask\\OperatorOverloading\\OperatorOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorOverloading\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\labtask\\OperatorOverloading\\OperatorOverloading\\Program.cs",
+              "RelativeToolTip": "OperatorOverloading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:51:37.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
